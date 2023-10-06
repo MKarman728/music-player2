@@ -43,6 +43,7 @@ body{
     animation-play-state: paused;
 }
 
+/* Creates music container to spin 360deg in 3 seconds */
 .music-container.play .img-container img{
     animation-play-state: running;
 
